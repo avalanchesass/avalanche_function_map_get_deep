@@ -7,7 +7,7 @@ section: Function
 Get values from deep nested maps.
 
 ```css
-map-get-deep($-map)
+map-get-deep($-map, $-keys...)
 ```
 */
 @function map-get-deep($-map, $-keys...) {
