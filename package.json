@@ -1,5 +1,5 @@
 {
-  "name": "avalanche_function_map_get_deep",
+  "name": "avalanchesass_function_map_get_deep",
   "description": "Get values from deep nested maps",
   "keywords": [
     "avalanche-package",

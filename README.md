@@ -1,4 +1,4 @@
-# avalanche_function_map_get_deep
+# avalanchesass_function_map_get_deep
 Get values from deep nested maps  
 https://github.com/avalanchesass/avalanche_function_map_get_deep
 
