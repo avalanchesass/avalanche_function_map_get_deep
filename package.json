@@ -2,7 +2,7 @@
   "name": "avalanchesass_function_map_get_deep",
   "description": "Get values from deep nested maps",
   "keywords": [
-    "avalanche-package",
+    "avalanchesass-package",
     "eyeglass-module",
     "sass"
   ],
