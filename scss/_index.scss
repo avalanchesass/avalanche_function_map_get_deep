@@ -1,5 +1,5 @@
 /*---
-title:   map_get_deep
+title:   map-get-deep
 name:    function_map_get_deep
 section: Function
 ---
@@ -7,13 +7,13 @@ section: Function
 Get values from deep nested maps.
 
 ```css
-map-get-deep($-map)
+map-get-deep($-map, $-keys...)
 ```
 */
 @function map-get-deep($-map, $-keys...) {
   $-value: $-map;
   @each $-key in $-keys {
-    $-value: map-get($-value, $k-ey);
+    $-value: map-get($-value, $-key);
   }
   @return $-value;
 }
